@@ -42,6 +42,10 @@ This project enhances detection accuracy and usability by integrating **IoT**, *
 - **Locomotion**: 4 × Gear Motors
 - **Motor Driving Circuit**: L298 Motor Driver
 - **Power Supply**: Rechargeable Li-ion Battery
+  
+##System Architecture
+
+![metalarchi](https://github.com/user-attachments/assets/7d2a55c4-d060-47f3-96d9-1c08af8d169f)
 
 ### System Workflow:
 - The robot **autonomously covers a 10m × 10m area** using a **zigzag pattern**.
@@ -61,5 +65,7 @@ This project enhances detection accuracy and usability by integrating **IoT**, *
 - 📱 **User-friendly mobile interface** for alerts and tracking.
 - 🤖 **Autonomous movement** to minimize manual operation.
 - 🔋 **Portable** with rechargeable batteries for field operation.
+
+## Prototype Design
 
 
