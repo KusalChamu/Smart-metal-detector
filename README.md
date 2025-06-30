@@ -43,7 +43,7 @@ This project enhances detection accuracy and usability by integrating **IoT**, *
 - **Motor Driving Circuit**: L298 Motor Driver
 - **Power Supply**: Rechargeable Li-ion Battery
   
-##System Architecture
+## System Architecture
 
 ![metalarchi](https://github.com/user-attachments/assets/7d2a55c4-d060-47f3-96d9-1c08af8d169f)
 
@@ -67,5 +67,10 @@ This project enhances detection accuracy and usability by integrating **IoT**, *
 - 🔋 **Portable** with rechargeable batteries for field operation.
 
 ## Prototype Design
+
+![WhatsApp Image 2025-06-30 at 16 56 31_08fb40b0](https://github.com/user-attachments/assets/59f72ffb-c437-4226-a151-0e785c63bd6b)
+
+![WhatsApp Image 2025-06-30 at 16 56 31_5fc4923c](https://github.com/user-attachments/assets/2d7aadb7-925e-4089-9ca6-2f68847f29df)
+
 
 
