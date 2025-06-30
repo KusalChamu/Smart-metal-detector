@@ -38,7 +38,7 @@ This project enhances detection accuracy and usability by integrating **IoT**, *
 - **Processing Unit**: ESP32
 - **Connectivity**: Wi-Fi / Bluetooth
 - **Location Tracking**: NEO-6M GPS Module
-- **User Interface**: Mobile App (Built using Blynk / MIT App Inventor)
+- **User Interface**: Web App 
 - **Locomotion**: 4 × Gear Motors
 - **Motor Driving Circuit**: L298 Motor Driver
 - **Power Supply**: Rechargeable Li-ion Battery
